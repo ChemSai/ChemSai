@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Venkat Sainath Reddy
+- 💼 I'm Research Assistant at Chaitanya Bharathi Institute of Technology
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on AI
