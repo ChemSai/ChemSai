@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me ...
+
 
 <!---
 ChemSai/ChemSai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
