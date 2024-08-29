@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Venkat Sainath Reddy
-- 💼 I'm Research Assistant at Chaitanya Bharathi Institute of Technology
+- 👩‍🎓 I’m currently pursuing Master's in Chemical Engineering at SUNNY Buffalo
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on AI
+- 📫 Feel free to reach me out munnangi@buffalo.edu
 
 
 <!---
